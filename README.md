@@ -1,6 +1,6 @@
 # Not a Kirka client
 
-NaK is a featureless toy Kirka.io client for Linux written in GNU Assembly (GAS), using GTK4 and WebKitGTK 6.0.
+NaK is a featureless toy [Kirka.io](https://kirka.io/) client for Linux written in GNU Assembly (GAS), using GTK4 and WebKitGTK 6.0.
 
 ## Requirements
 
