@@ -2,6 +2,8 @@
 
 NaK is a featureless toy [Kirka.io](https://kirka.io/) client for Linux written in GNU Assembly (GAS), using GTK4 and WebKitGTK 6.0.
 
+![nak.png](nak.png)
+
 ## Requirements
 
 - Linux (x86_64)
